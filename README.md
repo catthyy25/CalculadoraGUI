@@ -19,5 +19,4 @@ Python y la librería Tkinter.
 Este proyecto solo tiene un fichero llamado "suma_gui.py". 
 
 **Autor**
-Nombre y apellidos: Cathaysa Moreno Cabrera
-Usuario GitHub: catthyy25
+Nombre y apellidos: Cathaysa Moreno Cabrera -> Usuario GitHub: catthyy25
